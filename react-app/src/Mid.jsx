@@ -75,7 +75,17 @@ function Mid() {
       rating: 4.9,
       reviews: 95,
       badge: ''
+    },
+    {
+      id: 9,
+      name: 'Laptop Stand',
+      price: 45.99,
+      image: 'https://via.placeholder.com/250?text=Laptop+Stand',
+      rating: 3.9,
+      reviews: 950,
+      badge: ''
     }
+    
   ])
 
   return (
