@@ -8,6 +8,9 @@ function App() {
   return (
     <div className="app">
       <h1>Welcome to ShopHub</h1>  
+      <Top />
+      <Mid />
+      <Bottom />
       <Page2 />
     </div>
   )
